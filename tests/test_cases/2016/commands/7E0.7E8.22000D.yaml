@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    CRUZEL_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    CRUZEL_VSS: 1
+  response: 7E80462000D01
+- expected_values:
+    CRUZEL_VSS: 14
+  response: 7E80462000D0E
+- expected_values:
+    CRUZEL_VSS: 22
+  response: 7E80462000D16
+- expected_values:
+    CRUZEL_VSS: 25
+  response: 7E80462000D19
+- expected_values:
+    CRUZEL_VSS: 26
+  response: 7E80462000D1A
+- expected_values:
+    CRUZEL_VSS: 52
+  response: 7E80462000D34
+- expected_values:
+    CRUZEL_VSS: 64
+  response: 7E80462000D40
+- expected_values:
+    CRUZEL_VSS: 70
+  response: 7E80462000D46
